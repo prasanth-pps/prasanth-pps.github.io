@@ -190,17 +190,17 @@ body {
     box-shadow: none !important; }
 
 .btn-primary {
-  background-color: #fe9c2c;
-  border-color: #fe9c2c; }
+  background-color: #235f9f;
+  border-color: #235f9f; }
   .btn-primary:hover {
-    background-color: #fe9c2c !important;
-    border-color: #fe9c2c !important; }
+    background-color: #235f9f !important;
+    border-color: #235f9f !important; }
   .btn-primary:active {
-    background-color: #fe9c2c !important;
-    border-color: #fe9c2c !important; }
+    background-color: #235f9f !important;
+    border-color: #235f9f !important; }
   .btn-primary:focus {
-    background-color: #fe9c2c !important;
-    border-color: #fe9c2c !important;
+    background-color: #235f9f !important;
+    border-color: #235f9f !important;
     box-shadow: none !important; }
 
 .btn {
@@ -245,7 +245,7 @@ html {
   height: 8px;
   width: 8px;
   border-radius: 50%;
-  border: 1px solid #fe9c2c;
+  border: 1px solid #235f9f;
   margin: 0 auto;
   position: relative; }
   .heading-line::after {
@@ -327,7 +327,7 @@ html {
             .home-screen .header ul li a {
               color: #444; } }
   .home-screen .home-detail {
-    padding-top: 110px; }
+    padding-top: 43px; }
     .home-screen .home-detail .hom-img {
       text-align: center; }
       .home-screen .home-detail .hom-img img {
@@ -358,7 +358,7 @@ html {
         font-weight: 700;
         font-size: 1.5rem; }
         .home-screen .home-detail .homexp span a {
-          color: #fe9c2c; }
+          color: #235f9f; }
       .home-screen .home-detail .homexp p {
         margin-top: 20px;
         font-weight: 600;
@@ -455,7 +455,7 @@ html {
       .skills .skii-div ul li label {
         margin-bottom: 15px; }
       .skills .skii-div ul li .bg-warning {
-        background-color: #fe9c2c !important; }
+        background-color: #235f9f !important; }
 .skills .tech-skill {
   background-color: #fff; }
 .skills .pro-skill {
@@ -481,7 +481,7 @@ html {
       line-height: 80px;
       text-align: center;
       font-size: 46px;
-      background-color: #fe9c2c;
+      background-color: #235f9f;
       color: #fff;
       border-radius: 25px;
       border-bottom-right-radius: 0;
@@ -497,10 +497,10 @@ html {
       font-size: .95rem;
       margin-top: 15px; }
     .services .services-row .seric-div .service-card:hover {
-      background-color: #fe9c2c; }
+      background-color: #235f9f; }
       .services .services-row .seric-div .service-card:hover i {
         background-color: #FFF;
-        color: #fe9c2c; }
+        color: #235f9f; }
       .services .services-row .seric-div .service-card:hover h4 {
         color: #fff; }
       .services .services-row .seric-div .service-card:hover p {
@@ -535,29 +535,29 @@ html {
   width: 7.5%;
   left: 46.5%;
   height: 45px;
-  border-bottom: 1px solid #fe9c2c; }
+  border-bottom: 1px solid #235f9f; }
 
 .filter-button {
   font-size: 15px;
-  border: 1px solid #fe9c2c;
+  border: 1px solid #235f9f;
   border-radius: 2px;
   text-align: center;
   color: #FFF;
   margin-bottom: 30px;
   padding: 5px 20px;
   margin-right: 5px;
-  background-color: #fe9c2c !important; }
+  background-color: #235f9f !important; }
 
 .filter-button:hover {
   font-size: 18px;
-  border: 1px solid #fe9c2c;
+  border: 1px solid #235f9f;
   text-align: center;
-  color: #fe9c2c;
+  color: #235f9f;
   background-color: #FFF !important;
   padding: 5px 20px; }
 
 .btn-default:active .filter-button:active {
-  background-color: #fe9c2c;
+  background-color: #235f9f;
   color: white; }
 
 .port-image {
@@ -615,7 +615,7 @@ html {
     padding-top: 33px; }
     .customer-serv .stars li {
       list-style: none;
-      color: #f8b739;
+      color: #007bff;
       float: right;
       font-size: 13px;
       margin-left: 4px; }
@@ -679,19 +679,19 @@ html {
 
 #generic_price_table .generic_content .generic_feature_list ul li:hover {
   background-color: #E4E4E4;
-  border-left: 5px solid #fe9c2c; }
+  border-left: 5px solid #235f9f; }
 
 #generic_price_table .generic_content .generic_price_btn a {
-  border: 1px solid #fe9c2c;
-  color: #fe9c2c; }
+  border: 1px solid #235f9f;
+  color: #235f9f; }
 
 #generic_price_table .generic_content.active .generic_head_price .generic_head_content .head_bg,
 #generic_price_table .generic_content:hover .generic_head_price .generic_head_content .head_bg {
-  border-color: #fe9c2c; }
+  border-color: #235f9f; }
 
 #generic_price_table .generic_content:hover .generic_head_price .generic_head_content .head span,
 #generic_price_table .generic_content.active .generic_head_price .generic_head_content .head span {
-  color: #fe9c2c; }
+  color: #235f9f; }
 
 #generic_price_table {
   font-family: 'Raleway', sans-serif; }
